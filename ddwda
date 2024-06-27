@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JUNG FUUUU</title>
+    <link rel="stylesheet" href="css/test.css">
+</head>
+<body>
+    <!-- NAV Section -->
+    <nav>
+        <div class="logo">
+            <a href="#">Mysite</a>
+        </div>
+        <ul class="menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">Blog</a></li>
+        </ul>
+    </nav>
+    <!-- NAV Section -->
+    
+    <!-- SECTION -->
+    <section class="banner">
+        <div class="banner-info">
+            <img src="https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg" alt="">
+            <h1>The best website</h1>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. eos, illo?</p>
+        </div>
+    </section>
+    <!-- SECTION -->
+
+    <!-- content start -->
+     <main>
+        <div>
+            <h3>Welcome</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A sequi dolores repellat vel officiis ipsum qui voluptas, minima molestias tempora culpa consectetur iure accusantium harum totam! Quae dolorum eius est, laborum sequi at. Fugiat, nam assumenda, velit corrupti deleniti corporis, eos veritatis ea laborum explicabo odio! Deserunt, modi! Illo assumenda labore voluptatibus numquam ab rem dolor ullam? Eligendi ipsam vero, quam nobis totam nisi laudantium facere quia soluta perspiciatis cum esse nesciunt labore voluptate sapiente, numquam unde, ipsum voluptatem pariatur. Reprehenderit dolorem beatae voluptate, consequatur maiores optio asperiores eaque. Corporis illo velit vero tempora consectetur tenetur libero? Iusto, neque delectus.Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat quod recusandae ut vero nemo natus earum libero officia deserunt! Minima autem maxime deserunt cum ipsum sunt accusamus nesciunt excepturi esse!</p>
+        </div>
+        <div>
+            <h3>Great food</h3>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjAMLedZRk2kc2Gg7NC0jRaHIjxa1-vf-b_A&s" alt="">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, quam. Rem animi atque error unde mollitia beatae quibusdam, assumenda, nisi debitis officiis, totam quas? Eius est praesentium voluptatibus ipsam unde labore, similique atque commodi magnam repellendus eligendi blanditiis rem eaque, autem fugit sunt ex delectus quos, tempora quam nobis sit voluptates deserunt. Similique ullam harum sed error incidunt repellendus sapiente perspiciatis fugit esse! Incidunt inventore debitis rerum, minima deserunt, in facilis vero harum, iusto velit eius facere. Illum exercitationem voluptatum blanditiis iste culpa reiciendis asperiores, sint harum quia neque, labore voluptatibus est rem perferendis facere? In possimus ipsa at omnis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat sequi quos assumenda impedit, aliquam magni odio ea esse quae vel error! Omnis voluptas velit rerum vero odit corporis minus voluptatem.</p>
+        </div>
+        <div>
+            <h3>How to get here</h3>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Perspiciatis fugiat minus incidunt maxime amet molestiae architecto quisquam consectetur rerum accusantium inventore culpa vero dolor magnam, quod harum est sit voluptate fugit dignissimos dolorum, eveniet distinctio. Omnis officia sequi dolor vitae repellat repudiandae architecto consectetur? Minus, facere blanditiis distinctio expedita sequi voluptas! Nemo earum fuga, voluptates repellendus quasi facilis, possimus cupiditate magni provident doloremque nesciunt eius suscipit omnis iste minus, error ut itaque iusto aperiam. Veniam placeat iure eveniet quibusdam beatae atque, rem sed architecto dolor enim nemo commodi eum dicta doloremque, debitis voluptates veritatis? Itaque officiis vel harum delectus esse.Lorem ipsum dolor sit amet consectetur adipisicing elit. Ab, ex? Sed totam cumque voluptate nesciunt culpa perferendis doloribus ipsa doloremque labore, est cupiditate veritatis ea dolorem, eveniet itaque expedita sapiente?</p>
+        </div>
+        
+     </main>
+    <!-- content end -->
+    
+
+    <!-- footer start -->
+     <footer>
+        <p>Copyright 2024. Made by Chetsada Sinthasit </p>
+     </footer>
+    <!-- footer end -->
+</body>
+</html>
